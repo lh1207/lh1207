@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lh1207&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on: [Vehi-cool Rentals](https://github.com/Enterprise-App-Dev-Group-1/vehicoolrentals)
+- 🔭 I’m currently working on: [Vehi-cool Rentals](https://github.com/Enterprise-App-Dev-Group-1/vehicoolrentals) & [FlapSocial](https://github.com/lh1207/flapsocial)
 
 - 📫 How to reach me: levihuff1207@gmail.com
 
