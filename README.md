@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: [SquawkOS](https://github.com/lh1207/SquawkOS) & [FlapSocial](https://github.com/lh1207/FlapSocial)
 - 🌱 I’m currently learning scripting w/ Bash, Powershell, Python, and NodeJS.
-- 👯 I’m looking to collaborate on existing codebases in backend development.
+- 👯 I’m looking to collaborate on existing codebases in back or front end development.
 - 🤔 I’m exploring full-time software development co-op opportunities
 - 📫 How to reach me: levihuff1207@gmail.com
 - 😄 Pronouns: he/they
