@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning scripting w/ Bash, Powershell, Python, and NodeJS.
 - 👯 I’m looking to collaborate on existing codebases in back or front end development.
 - 🤔 I’m exploring full-time software development co-op opportunities
-- 📫 How to reach me: levihuff1207@gmail.com
+- 📫 How to reach me: huffli@mail.uc.edu
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I play trombone in the Bearcat Marching Band. Additonally, technology is my hobby.
 - 💬 Ask me about: My favorite operating systems and technology
