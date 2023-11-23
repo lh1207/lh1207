@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: [SquawkOS](https://github.com/lh1207/SquawkOS) & [FlapSocial](https://github.com/lh1207/FlapSocial)
+- 🔭 I am most proud of: [LocoQuest](https://www.github.com/lh1207/LocoQuest)
 - 🌱 I’m currently learning scripting w/ Bash, Powershell, Python, and NodeJS.
 - 👯 I’m looking to collaborate on existing codebases in back or front end development.
 - 🤔 I’m exploring full-time software development co-op opportunities
