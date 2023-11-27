@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I am currently working on [TF2 Toolbox](https://github.com/lh1207/TF2-Toolbox)
 - ⭐ I am most proud of: [LocoQuest](https://www.github.com/lh1207/LocoQuest)
 - 🌱 I’m currently learning shell script and API JSON parsing w/ C#
 - 👯 I’m looking to collaborate on existing codebases in back or front end development.
