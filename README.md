@@ -10,7 +10,7 @@
 
 ### Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=linux,cs,dotnet,sqlite,java,kotlin,spring,html,css,bootstrap,js,nodejs,bash,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,cs,dotnet,sqlite,java,spring,kotlin,html,css,bootstrap,js,nodejs,bash,powershell)](https://skillicons.dev)
 
 ### Codebase Management
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
