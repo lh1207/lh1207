@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite,java,spring,kotlin,htmx,html,css,bootstrap,js,nodejs,arch,linux,bash,python,powershell,docker&perline=6)](https://skillicons.dev)
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>GitHub Stats ⚡</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lh1207&theme=synthwave&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lh1207&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
