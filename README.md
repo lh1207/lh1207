@@ -13,6 +13,6 @@
 <details>
   <summary>GitHub Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lh1207&theme=synthwave&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lh1207&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lh1207&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lh1207&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&count_private=true&hide_border=true)</a>
 </details>
