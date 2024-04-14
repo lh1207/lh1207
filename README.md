@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- ⭐ I am most proud of: [LocoQuest](https://www.github.com/lh1207/LocoQuest)
-- 🌱 I’m currently working on [AeroAssist](https://github.com/lh1207/AeroAssist/)
+- ⭐ I am most proud of: [AeroAssist](https://github.com/lh1207/AeroAssist/) and [LocoQuest](https://www.github.com/lh1207/LocoQuest)
+- 🌱 I’m currently working on [AeroAssist](https://github.com/lh1207/AeroAssist/) QoL features
 - 🤔 I’m exploring full-time software development co-op opportunities
 - 📫 How to reach me: huffli@mail.uc.edu
 - 😄 Pronouns: he/they
