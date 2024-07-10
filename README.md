@@ -6,7 +6,7 @@
 - 📫 How to reach me: huffli@mail.uc.edu
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I play trombone in the Bearcat Marching Band. Additonally, technology is my hobby.
-- 💬 Ask me about: My favorite operating systems and technology
+- 💬 Ask me about: My favorite operating systems, technology, and stuffed animals!
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite,java,spring,kotlin,htmx,html,css,bootstrap,js,nodejs,arch,linux,bash,python,powershell,docker&perline=6)](https://skillicons.dev)
 
