@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⭐ I am most proud of: [AeroAssist](https://github.com/lh1207/AeroAssist/) and [LocoQuest](https://www.github.com/lh1207/LocoQuest)
+- ⭐ I am most proud of: [AeroAssist](https://github.com/lh1207/AeroAssist/).
 - 🌱 I’m currently building [Culinary Mastery](https://github.com/24-25-UC-Senior-Design-Group-7/Culinary-Mastery) for a group in Senior Design.
 - 🤔 I’m exploring full-time software development co-op opportunities.
 - 📫 How to reach me: huffli@mail.uc.edu
