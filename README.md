@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 - ⭐ I am most proud of: [AeroAssist](https://github.com/lh1207/AeroAssist/) and [LocoQuest](https://www.github.com/lh1207/LocoQuest)
-- 🌱 I’m currently starting my senior project! What do you think my group and I are building? ❓
-- 🤔 I’m exploring full-time software development co-op opportunities
+- 🌱 I’m currently building [Culinary Mastery](https://github.com/24-25-UC-Senior-Design-Group-7/Culinary-Mastery) for a group in Senior Design.
+- 🤔 I’m exploring full-time software development co-op opportunities.
 - 📫 How to reach me: huffli@mail.uc.edu
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I play trombone in the Bearcat Marching Band. Additonally, technology is my hobby.
-- 💬 Ask me about: My favorite operating systems, technology, and stuffed animals!
+- 💬 Ask me about: My favorite operating systems and technology!
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite,java,spring,kotlin,htmx,html,css,bootstrap,js,nodejs,arch,linux,bash,python,powershell,docker&perline=6)](https://skillicons.dev)
+### [My Website](https://lh1207.github.io)
+
 
 <details>
   <summary>GitHub Stats ⚡</summary>
