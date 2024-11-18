@@ -2,11 +2,11 @@
 
 - ⭐ I am most proud of: [AeroAssist](https://github.com/lh1207/AeroAssist/).
 - 🌱 I’m currently building [Culinary Mastery](https://github.com/24-25-UC-Senior-Design-Group-7/Culinary-Mastery) for a group in Senior Design.
-- 🤔 I’m exploring full-time software development co-op opportunities.
+- 🤔 I’m scoping internship opportunities within my field.
 - 📫 How to reach me: huffli@mail.uc.edu
 - 😄 Pronouns: he/they
-- ⚡ Fun fact: I play trombone in the Bearcat Marching Band. Additonally, technology is my hobby.
-- 💬 Ask me about: My favorite operating systems and technology!
+- ⚡ Fun fact: I play trombone in the Bearcat Marching Band. Additionally, technology is my hobby.
+- 💬 Ask me about my favorite operating systems and technology!
 
 ### [My Website](https://lh1207.github.io)
 
