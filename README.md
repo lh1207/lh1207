@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I played trombone in the Bearcat Marching Band from 2020-2024.
 - 💬 Ask me about my favorite operating systems and technology!
 
-### [My Website](https://lh1207.github.io)
+### [My Website](https://levihuff.net/)
