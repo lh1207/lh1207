@@ -2,7 +2,7 @@
 
 - 🎓 I recently earned my B.S. in Information Technology (Software Application Development track) from the University of Cincinnati.
 - ⭐ I'm most proud of [AeroAssist](https://github.com/lh1207/AeroAssist/) and earning my CompTIA A+, now working toward my CCNA.
-- 🌱 I'm actively maintaining [levihuff.net](https://levihuff.net/), my portfolio, blog, and resume; static site built with 11ty, TailwindCSS, Vue.js, and Motion One. CI/CD pipeline provisioned through GitHub Actions in the [repository](https://github.com/lh1207/levihuff.net/)
+- 🌱 I'm actively maintaining [levihuff.net](https://levihuff.net/), my portfolio, blog, and resume; static site built with 11ty, TailwindCSS, Vue.js, and Motion One. CI/CD pipeline provisioned through GitHub Actions in the [repository](https://github.com/lh1207/levihuff.net/).
 - 🏠 I run a Proxmox homelab and a local AI stack on Ollama, exploring where IT support meets enterprise AI deployment.
 - 🤔 I'm scoping IT support and infrastructure opportunities in my field.
 - 📫 How to reach me: contact@levihuff.net
